@@ -10,7 +10,7 @@ Currently **seeking a data science internship**.
 |---|---|---|
 | **Saudi Date Variety Classification** | 13-class image classifier on the SODA Challenge dataset; fine-tuned ResNet-101 and EfficientNet-B3, **0.84 Macro-F1** | PyTorch, CNNs |
 | **Student Well-Being Data Warehouse** | Integrated structured and unstructured data into a Star Schema warehouse with ETL, OLAP analysis and dashboards | SQL, ETL |
-| **Uni Losts & Founds** | Full-stack lost-and-found web app for university students, deployed with **350+ visits** | Flask, SQLite, HTML/CSS |
+| **Uni Losts & Founds** (team of 4) | Lost-and-found web app for university students that reached **350+ visitors**; my role: testing, task coordination and final review | Flask, SQLite, HTML/CSS |
 | **Daily Internet Usage Analysis** | Cleaned and analyzed 2,800 records; EDA, feature engineering, PCA and RFE | Python |
 | **Ontology Engineering** | OWL ontology of the College of Computing at UQU, validated with reasoners and queried with SPARQL | OWL, SPARQL |
 | **Ayah Lens** (Hedayathon) | Proposed a computer vision solution to identify Quran verses from photos for non-Arabic-speaking visitors | Computer Vision |
