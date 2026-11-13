@@ -6,18 +6,18 @@ Currently **seeking a data science internship**.
 
 ### 🔍 Featured projects
 
-| Project | What I did | Tools |
+| Project | Summary & my role | Tools |
 |---|---|---|
-| **Saudi Date Variety Classification** | 13-class image classifier on the SODA Challenge dataset; fine-tuned ResNet-101 and EfficientNet-B3, **0.84 Macro-F1** | PyTorch, CNNs |
-| **Student Well-Being Data Warehouse** | Integrated structured and unstructured data into a Star Schema warehouse with ETL, OLAP analysis and dashboards | SQL, ETL |
-| **Uni Losts & Founds** (team of 4) | Lost-and-found web app for university students that reached **350+ visitors**; my role: testing, task coordination and final review | Flask, SQLite, HTML/CSS |
-| **Daily Internet Usage Analysis** | Cleaned and analyzed 2,800 records; EDA, feature engineering, PCA and RFE | Python |
-| **Ontology Engineering** | OWL ontology of the College of Computing at UQU, validated with reasoners and queried with SPARQL | OWL, SPARQL |
+| **Student Well-Being Data Warehouse** (team project) | Star Schema warehouse integrating structured and unstructured data, with ETL, OLAP analysis and dashboards; **my role: wrote the SQL for loading and querying the warehouse** | SQL, ETL |
+| **Ontology Engineering** (team of 5) | OWL ontology of the College of Computing at UQU, validated with reasoners and queried with SPARQL; **my role: built the object properties** | OWL, SPARQL |
+| **Saudi Date Variety Classification** (team of 4) | Transfer-learning classifier for 13 date varieties on the SODA Challenge dataset (ResNet-101, 0.84 Macro-F1); **my role: wrote the technical report and organized figures and tables** | PyTorch, CNNs |
+| **Daily Internet Usage Analysis** (team of 6) | Data quality checks, cleaning, EDA, feature engineering, PCA and RFE on 2,800 records | Python |
+| **Uni Losts & Founds** (team of 4) | Lost-and-found web app for university students that reached **350+ visitors**; **my role: testing, task coordination and final review** | Flask, SQLite, HTML/CSS |
 | **Ayah Lens** (Hedayathon) | Proposed a computer vision solution to identify Quran verses from photos for non-Arabic-speaking visitors | Computer Vision |
 
 ### 🛠️ Skills
 **Languages:** Python · SQL · R · JavaScript · HTML/CSS
-**Data & ML:** PyTorch · Machine Learning · Deep Learning · Data Preprocessing
+**Data & ML:** Data Preprocessing · Machine Learning · PyTorch
 **Data Engineering:** Data Warehousing · ETL · Star Schema · OLAP
 **Visualization:** Tableau · Power BI · Excel
 
